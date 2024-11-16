@@ -17,6 +17,10 @@ Fixar os conhecimentos práticos referentes à programação lógica, desenvolve
   
 ![image](https://github.com/user-attachments/assets/f9334c00-cbf9-4aed-989d-589368818662)
 
+### Recomendação de Treinos de Academia
+- **Objetivo:** Desenvolver um sistema especialista que sugira treinos de academia baseados em objetivos, como perder peso, ganhar massa muscular ou melhorar o condicionamento físico.
+  
+![image](https://github.com/user-attachments/assets/fce3f149-bbc6-4688-b5e0-eb952ed08da6)
 
 
 ### Como usar:
