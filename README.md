@@ -12,6 +12,11 @@ Fixar os conhecimentos práticos referentes à programação lógica, desenvolve
   
  ![image](https://github.com/user-attachments/assets/8b6ba554-a1e9-491f-bb57-6678440a2fdf)
 
+### Recomendações de Livros
+- **Objetivo:** Criar um sistema especialista que recomende livros com base em preferências de gênero e interesses do usuário.
+  
+![image](https://github.com/user-attachments/assets/f9334c00-cbf9-4aed-989d-589368818662)
+
 
 
 ### Como usar:
@@ -20,6 +25,29 @@ Fixar os conhecimentos práticos referentes à programação lógica, desenvolve
 2. **Execute os Códigos no SWI-Prolog:** No terminal do SWI-Prolog, carregue o arquivo de código desejado com o comando `consult('caminho/do/arquivo.pl').` e execute o predicado  para iniciar a interação com o sistema. Por exemplo, no diagnóstico médico, diagnosticar.
 
 
+
+## 🤝 Desenvolvedoras
+
+As seguintes pessoas contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LaisaGarlini" title="Laisa Garlini">
+        <img src="https://avatars.githubusercontent.com/u/128845740?v=4" width="100px;" alt="Foto de Laisa Garlini no GitHub"/><br>
+        <sub>
+          <b>Laisa Garlini</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aagablm" title="Ana Gabriela Lima">
+        <img src="https://avatars.githubusercontent.com/u/97294208?v=4" width="100px;" alt="Foto de Ana Gabriela no GitHub"/><br>
+        <sub>
+          <b>Ana Gabriela Lima</b>
+        </sub>
+      </a>
+    </td>
 
 
   
