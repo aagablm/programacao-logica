@@ -12,15 +12,25 @@ Fixar os conhecimentos práticos referentes à programação lógica, desenvolve
   
  ![image](https://github.com/user-attachments/assets/8b6ba554-a1e9-491f-bb57-6678440a2fdf)
 
+### Análise de Problemas de Veículos
+- **Objetivo:** Desenvolver um sistema especialista que ajude a identificar problemas comuns em veículos com base em sintomas ou comportamentos relatados.
+  
+ ![Problema Veiculo](https://github.com/aagablm/programacao-logica/raw/main/problema-veiculo.png)
+
 ### Recomendações de Livros
 - **Objetivo:** Criar um sistema especialista que recomende livros com base em preferências de gênero e interesses do usuário.
   
-![image](https://github.com/user-attachments/assets/f9334c00-cbf9-4aed-989d-589368818662)
+![Problema Veiculo](https://github.com/aagablm/programacao-logica/raw/main/investigacao-criminal.png)
 
 ### Recomendação de Treinos de Academia
 - **Objetivo:** Desenvolver um sistema especialista que sugira treinos de academia baseados em objetivos, como perder peso, ganhar massa muscular ou melhorar o condicionamento físico.
   
 ![image](https://github.com/user-attachments/assets/fce3f149-bbc6-4688-b5e0-eb952ed08da6)
+
+### Análise de Investigação Criminal
+- **Objetivo:** Criar um sistema especialista que auxilie na análise de casos criminais, sugerindo suspeitos ou cenários com base em evidências e testemunhos.
+  
+ ![Investigação Criminal](https://github.com/aagablm/programacao-logica/raw/main/investigacao-criminal.png)
 
 
 ### Como usar:
