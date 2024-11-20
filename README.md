@@ -20,7 +20,7 @@ Fixar os conhecimentos práticos referentes à programação lógica, desenvolve
 ### Recomendações de Livros
 - **Objetivo:** Criar um sistema especialista que recomende livros com base em preferências de gênero e interesses do usuário.
   
-![Problema Veiculo](https://github.com/aagablm/programacao-logica/raw/main/investigacao-criminal.png)
+![image](https://github.com/user-attachments/assets/f9334c00-cbf9-4aed-989d-589368818662)
 
 ### Recomendação de Treinos de Academia
 - **Objetivo:** Desenvolver um sistema especialista que sugira treinos de academia baseados em objetivos, como perder peso, ganhar massa muscular ou melhorar o condicionamento físico.
